@@ -96,9 +96,10 @@
 
 .section-one .inner-wrap {
   text-align: center;
+  /* để căn ra giữa */
   max-width: 600px;
   margin: 0 auto;
-  /* để căn ra giữa */
+  /* end để căn ra giữa */
 }
 
 .section-one .inner-title {
